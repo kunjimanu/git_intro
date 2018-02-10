@@ -1,3 +1,1 @@
-console.log("meow...");
-
-console.log("purr...");
+console.log("This is my big app");
